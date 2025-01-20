@@ -1,13 +1,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
 
 <div style="display: flex;">
-        <p style="text-align: left; margin-right: 10px;">
+        <h6 style="text-align: left; margin-right: 10px;">
             💻 Passionate developer driven by curiosity and innovation. <br>
             🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects. <br>
             🌟 Constantly learning and evolving, I aim to create solutions that make a difference. <br>
             🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!<br>
             Don't forget to checkout my projects
-        </p>
+        </h6>
         <img src="src/gift.webp" style="width: 10%;">
 ---
 
