@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 <div style="display: flex;">
-         <img align="right" alt="Coding" width="192" src="src/gift.webp">
+         <img align="right" alt="Coding" width="200" src="src/gift.webp">
         <h3 align="left">
              <ul>    
             <li>💻 Passionate fullStack developer driven by curiosity and innovation.</li>
