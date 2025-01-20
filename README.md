@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
 ---
-# <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
+<h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 💻 Passionate developer driven by curiosity and innovation. <br>🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects. <br>🌟 Constantly learning and evolving, I aim to create solutions that make a difference. <br>🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!<br> Don't forget to checkout my projects
 
 ---
