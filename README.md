@@ -4,16 +4,16 @@
 
 <div style="display: flex;">
          <img align="right" alt="Coding" width="200" src="src/gift.webp">
-        <h6 align="left">
+        <h3 align="left">
             💻 Passionate fullStack developer driven by curiosity and innovation.<br>
             🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.<br>
             🌟 Constantly learning and evolving, I aim to create solutions that make a difference.<br>
             🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!<br>
             Don't forget to checkout my projects
-        </h6>
+        </h3>
        
 
----
+
 
 
 ## 🌐 Socials:
