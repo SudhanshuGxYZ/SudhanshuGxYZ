@@ -2,13 +2,15 @@
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 <div style="display: flex;">
-         <img align="right" alt="Coding" width="190" src="src/gift.webp">
+         <img align="right" alt="Coding" width="192" src="src/gift.webp">
         <h3 align="left">
-            💻 Passionate fullStack developer driven by curiosity and innovation.<br>
-            🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.<br>
-            🌟 Constantly learning and evolving, I aim to create solutions that make a difference.<br>
-            🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!<br>
-            Don't forget to checkout my projects
+             <ul>    
+            <li>💻 Passionate fullStack developer driven by curiosity and innovation.</li>
+            <li>🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.</li>
+            <li>🌟 Constantly learning and evolving, I aim to create solutions that make a difference.</li>
+            <li>🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!</li>
+            <li>Don't forget to checkout my projects</li>
+             </ul> 
         </h3>
        
 
