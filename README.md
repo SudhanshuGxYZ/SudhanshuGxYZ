@@ -1,5 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
----
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 <div style="display: flex;">
@@ -15,7 +14,7 @@
 
 
 
-
+---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sudhanshu.a.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagln) 
 
