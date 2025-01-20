@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 <div style="display: flex;">
-        <div width="max-content";>
+         <img src="src/gift.webp" style="width: 10%;">
         <h6 style="text-align: in-line-start; margin-right: 10px;">
             💻 Passionate developer driven by curiosity and innovation.<br>
             🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.<br>
@@ -11,8 +11,7 @@
             🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!<br>
             Don't forget to checkout my projects
         </h6>
-        </div>
-        <img src="src/gift.webp" style="width: 10%;">
+       
 
 ---
 
