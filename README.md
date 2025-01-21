@@ -6,10 +6,11 @@
         <h3 align="left">
              <ul>    
             <li>💻 Passionate fullStack developer driven by curiosity and innovation.</li>
+            <li>🕵️ Empowering ideas through code by tackle challenges, and innovate solutions.</li>
             <li>🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.</li>
             <li>🌟 Constantly learning and evolving, I aim to create solutions that make a difference.</li>
             <li>🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!</li>
-            <li>Don't forget to checkout my projects</li>
+            <li> Don't forget to checkout my projects</li>
              </ul> 
         </h3>
        
