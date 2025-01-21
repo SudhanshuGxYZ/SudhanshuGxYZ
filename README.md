@@ -11,7 +11,7 @@
             <li>🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.</li>
             <li>🌟 Constantly learning and evolving, I aim to create solutions that make a difference.</li>
             <li>🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!</li>
-            <li>😎 Don't forget to checkout my projects</li>
+            <li>😎 To know more just visit = (https://shorturl.at/piL4q)</li>
              </ul> 
         </h3>
        
