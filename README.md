@@ -5,7 +5,7 @@
          <img align="right" alt="Coding" width="400" src="src/gift.webp">
         <h3 align="left">
              <ul> 
-            <li><b>About me :-</b></li>
+            <li><u>About me :-</u></li>
             <li>💻 Passionate fullStack developer driven by curiosity and innovation.</li>
             <li>🕵️ Empowering ideas through code by tackle challenges, and innovate solutions.</li>
             <li>🚀 I enjoy exploring diverse technologies, solving challenges, and building impactful projects.</li>
