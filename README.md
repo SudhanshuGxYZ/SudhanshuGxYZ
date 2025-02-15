@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
+"https://shorturl.at/piL4q"<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 <div style="display: flex;">
@@ -12,7 +12,7 @@
             <li>⚙️ Always try to do things differntly and sometimes diferent things to be always creative</li>
             <li>🌟 Constantly learning and evolving, I aim to create solutions that make a difference.</li>
             <li>🤝 Open to collaboration and ready to turn ideas into reality through code. Let's connect!</li>
-            <li>😎 To know more just visit on My Portfolio - <a src="https://shorturl.at/piL4q">[SAG]</></li>
+            <li>😎 To know more just visit on My Portfolio - <a src="https://shorturl.at/piL4q">[SAG]</a></li>
              </ul> 
         </h3>
        
