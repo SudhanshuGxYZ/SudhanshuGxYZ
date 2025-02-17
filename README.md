@@ -1,4 +1,4 @@
-"https://shorturl.at/piL4q"<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshugxyz&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshugxyz" /> </p>
 <h1 align="center">Hi 👋, I'm Sudhanhsu Gotefode</h1>
 
 
