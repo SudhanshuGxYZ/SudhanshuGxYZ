@@ -22,8 +22,7 @@
 
 ---
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sudhanshu.a.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagln)[![Portfolio](<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/1c9d228c-8370-4ca3-8e0b-9c30b9f73345" />
-)](https://clik.now/SAGxYZPortfolio) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Sudhanshu.a.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sagln)
 
 ---
 
